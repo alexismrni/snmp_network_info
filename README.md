@@ -1,5 +1,5 @@
 # snmp_cisco_info Nagios Plugin
-##Check to getting informations about Cisco Equipments for EyesOfNetwork.
+## Check to getting informations about Cisco Equipments for EyesOfNetwork.
 
 ### Don't try to use the .SH file. Use only the .php file.
 
