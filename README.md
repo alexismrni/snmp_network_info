@@ -11,4 +11,4 @@ php $USER1$/snmp_cisco_info.php $HOSTADDRESS$ $USER2$ 240000
 
 240000 corresponds to time to returns warning if there are changes
 
-Big thanks to <a href="https://github.com/maubertin">@maubertin</a> for his help and farid@joubbi.se for the initial script.
+Big thanks to <a href="https://github.com/maubertin">@maubertin</a> for his help and farid@joubbi.se for the initial SNMP script.
