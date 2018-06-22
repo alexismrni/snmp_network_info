@@ -24,7 +24,7 @@
          }
       
          $tmp_first = tempnam(sys_get_temp_dir(), 'BOB'); 
-         system("/srv/eyesofnetwork/nagios/plugins/snmp_cisco_info.sh ".$ip." ".$com." &> ".$tmp_first);
+         system("/srv/eyesofnetwork/nagios/plugins/snmp_network_info.sh ".$ip." ".$com." &> ".$tmp_first);
          $cmd_first= file_get_contents($tmp_first);
          system("rm -f ".$tmp_first);   
       
