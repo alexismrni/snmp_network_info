@@ -13,4 +13,6 @@ If there are changes, my script compare before and now and returns the differenc
 
 240000 corresponds to time to returns warning if there are changes
 
+<img src"https://i.imgur.com/OMiEaTh.png" />
+
 Big thanks to <a href="https://github.com/maubertin">@maubertin</a> for his help and farid@joubbi.se for the initial SNMP script.
