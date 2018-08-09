@@ -16,3 +16,5 @@ If there are changes, my script compare before and now and returns the differenc
 ![Real Exemple](https://i.imgur.com/OMiEaTh.png)
 
 Big thanks to <a href="https://github.com/maubertin">@maubertin</a> for his help and <a href="https://github.com/joubbi">@joubbi</a> for the <a href="https://github.com/joubbi/snmp_cisco_info">initial SNMP script</a>.
+
+Writted by Alexis for Axians. If you need help only with the PHP script, you can contact me by email to alexis.meroni@axians.com
